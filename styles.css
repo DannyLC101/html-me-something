@@ -16,8 +16,15 @@ header{
 	font-style:strong;
 	color:#003300;
 }
+
 .places{
 	color:black;
+	font-size:130%;
+}
+
+.city_description{
+	font-size:110%;
+	text-align:justify;
 }
 
 body{
@@ -42,6 +49,13 @@ img{
 	
 }
 
-p{
-	text-align:justify;
+.place_image{
+	color:#996600;
+	font-style:italic;
+}
+
+#end{
+	font-size:70%;
+	font-style: italic;
+	color:#993333;
 }
