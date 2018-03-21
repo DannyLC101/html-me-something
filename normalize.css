@@ -7,6 +7,7 @@ html{
 	font-family: sans-serif; /*sets default fonts*/
 	-ms-text-size-adjust : 100%; /*#1*/
 	-webkit-text-size-adjust: 100%; /*#1*/
+	color: #003333;
 }
 
 

@@ -1,3 +1,24 @@
+header{
+	/*height:100%;
+	width:100%;
+	padding: 20px 0 70px 0;
+	background: white 100% 100%  no-repeat;
+	background-position:center;
+	background-attachment:fixed, fixed, fixed, scroll;
+	background-image: url(https://cdn.pixabay.com/photo/2017/08/03/19/10/statue-of-liberty-2577933_960_720.jpg)
+	background-size: auto, auto, auto, cover;
+		*/
+}
+
+.places{
+	color:black;
+}
+
+body{
+	background-color: #f5f5f0;
+	background-image: url(https://thumb1.shutterstock.com/mosaic_250/3416780/386330020/stock-photo-tiled-brick-wall-in-light-white-color-tone-texture-background-for-interiors-designhome-house-386330020.jpg);
+}
+
 div{
 	border:1px solid black;
 	margin-top: 10px;
