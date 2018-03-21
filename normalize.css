@@ -1,0 +1,12 @@
+/**
+* #1. 	Prevent iOS and IE text size adjust after device orientation change,
+*		without disabling user zoom.
+*/
+
+html{
+	font-family: sans-serif; /*sets default fonts*/
+	-ms-text-size-adjust : 100%; /*#1*/
+	-webkit-text-size-adjust: 100%; /*#1*/
+}
+
+
